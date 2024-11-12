@@ -43,7 +43,7 @@
 
 /* Stylování způsobů platby */
 .fapi-form-payment-methods {
-  margin-bottom: 30px;
+  margin-bottom: 300px;
 }
 
 /* Stylování výsledku objednávky */
@@ -60,7 +60,7 @@
 
 /* Stylování tlačítka odeslání */
 .fapi-submit-button {
-  background-color: #28a745;;
+  background-color: #28a745;
   color: #ffffff;
   padding: 15px 30px;
   border: none;
@@ -69,13 +69,7 @@
 }
 
 .fapi-submit-button:hover {
-  background-color: #0056b3;
-}
-
-/* Stylování načítání při odesílání */
-.fapi-sending {
-  color: #555555;
-  font-size: 16px;
+  background-color: red;
 }
 
 /* Stylování plovoucí ceny */

@@ -200,8 +200,9 @@
   margin-bottom: 30px;
 }
 
+/* Skrytí vstupního pole a uvolnění místa */
 .fapi-form-default-input-first-name {
-  background-color: #e0f7fa;
+  display: none;
 }
 
 

@@ -60,7 +60,7 @@
 
 /* Stylování tlačítka odeslání */
 .fapi-submit-button {
-  background-color: #007bff;
+  background-color: #28a745;;
   color: #ffffff;
   padding: 15px 30px;
   border: none;
@@ -199,5 +199,10 @@
 .fapi-form-basic-block {
   margin-bottom: 30px;
 }
+
+.fapi-form-basic-data .fapi-input-first_name {
+  background-color: #e0f7fa;
+}
+
 
 /* Další vlastní styly podle potřeby */
